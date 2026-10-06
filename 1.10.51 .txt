@@ -1,7 +1,7 @@
 { 
 "version":"2.0",
 "title":"کاربر گرامی 🔥",
-"description":"بروزرسانی برنامه مود بزودی در کانال ما قرار میگیرید ، جهت اپدیت در کانال تلگرام ما عضو شوید ♥️",
-"download":"tg://resolve?domain=VPN_irany",
+"description":"جهت مطلع شدن از اپدیت این برنامه و دسترسی به برنامه های مود بیشتر در کانال اصلی ما عضو شوید ♥️",
+"download":"tg://join?invite=_PZZYIT1lq84OTJk",
 "buttonno":"no"
 }
